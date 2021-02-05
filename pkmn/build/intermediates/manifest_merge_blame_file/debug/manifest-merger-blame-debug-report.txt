@@ -1,0 +1,52 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.badlogic.androidgames.mrnom"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml:19:5-45
+8        android:minSdkVersion="24"
+8-->C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml:19:5-45
+9        android:targetSdkVersion="29" />
+9-->C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml:19:15-43
+10
+11    <uses-permission android:name="android.permission.WAKE_LOCK" />
+11-->C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml:17:5-68
+11-->C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml:17:22-65
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml:18:5-80
+12-->C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml:18:22-78
+13
+14    <application
+14-->C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml:6:5-16:19
+15        android:debuggable="true"
+15-->C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml:6:72-97
+16        android:icon="@drawable/icon"
+16-->C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml:6:18-47
+17        android:label="Mr. Nom" >
+17-->C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml:6:48-71
+18        <activity
+18-->C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml:7:9-15:20
+19            android:name="com.M00271117.motraining.rpgame.MrNomGame"
+19-->C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml:7:19-75
+20            android:configChanges="keyboard|keyboardHidden|orientation"
+20-->C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml:9:19-78
+21            android:label="Mr. Nom"
+21-->C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml:8:19-42
+22            android:screenOrientation="portrait" >
+22-->C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml:10:19-55
+23            <intent-filter>
+23-->C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml:11:13-14:29
+24                <action android:name="android.intent.action.MAIN" />
+24-->C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml:12:17-69
+24-->C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml:12:25-66
+25
+26                <category android:name="android.intent.category.LAUNCHER" />
+26-->C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml:13:17-77
+26-->C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml:13:27-74
+27            </intent-filter>
+28        </activity>
+29    </application>
+30
+31</manifest>

@@ -1,0 +1,81 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml:3:5-26
+		INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml
+		INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml
+		INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml
+		INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml
+application
+ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml:7:5-32:19
+	android:label
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml:9:9-41
+	android:icon
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml:8:9-45
+	android:theme
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml:10:9-67
+activity#progark.a15.GameActivity_getwang
+ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml:11:9-15:20
+	android:screenOrientation
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml:13:13-49
+	android:noHistory
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml:12:13-49
+activity#progark.a15.DiffSelectActivity
+ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml:16:9-19:20
+	android:screenOrientation
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml:18:13-49
+	android:name
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml:17:13-47
+activity#progark.a15.MainMenuActivity
+ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml:20:9-31:20
+	android:screenOrientation
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml:25:13-49
+	android:label
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml:22:13-45
+	android:launchMode
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml:23:13-44
+	android:alwaysRetainTaskState
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml:24:13-49
+	android:name
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml:21:13-45
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml
+INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml
+INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml
+INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml
+		INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml
+		INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml

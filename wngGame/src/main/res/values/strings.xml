@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="score_header">Hall Of Fame</string>
+    <string name="gameover_title">Game over!</string>
+    <string name="gameover_msg">Input name below. Your score: </string>
+    <string name="gameover_btn_quit">Quit</string>
+    <string name="gameover_btn_submit">Submit</string>
+    <string name="gameover_noname_error">No name written! Input a name and try again.</string>
+    <string name="app_name">JetWang</string>
+    <string name="header">Jetman</string>
+    <string name="optionsheader">Choose a difficulty</string>
+    
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="new_game">Choose difficulty and character</string>
+	<string name="choose_diff">Choose a difficulty</string>
+	<string name="choose_char">Choose a character</string>
+	<string name="start_game">Start</string>
+	<string name="first_char_name">Green guy</string>
+	<string name="second_char_name">Other guy</string>
+</resources>

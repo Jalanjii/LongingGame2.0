@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	>
+	<LinearLayout
+		android:layout_width="440dp"
+		android:layout_height="180dp"
+		android:gravity="right"
+		android:orientation="vertical"
+		android:padding="10dp"
+		>
+
+		<TextView
+			android:id="@+id/multiplayer_name_title"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_marginTop="5px"
+			android:text="Enter A Screen Name"
+			android:textSize="30px"
+			android:gravity="right"
+			android:textColor="#FFFFFFFF"
+		/>
+		<EditText
+			android:id="@+id/multiplayer_name_name"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:layout_marginTop="10dp"
+			android:layout_marginStart="20dp"
+			android:hint="@string/enter_a_screen_name"
+			android:textSize="26sp"
+			android:singleLine="true"
+			android:gravity="right"
+			android:background="@drawable/button"
+			android:textColor="#FFFFFFFF"
+			android:textColorHint="#AAAAAAAA"
+			android:inputType="textCapSentences"
+            android:maxLength="20"
+		/>
+		<Button
+			android:id="@+id/multiplayer_name_done"
+			android:layout_width="220dp"
+			android:layout_height="48dp"
+			android:layout_marginTop="10dp"
+			android:background="@drawable/button"
+			android:text="@string/done"
+			android:textColor="#FFFFFFFF"
+			android:textSize="30sp"
+			android:gravity="right"
+		/>
+	</LinearLayout>
+</FrameLayout>

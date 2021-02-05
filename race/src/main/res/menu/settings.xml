@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+	xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+	<CheckBoxPreference
+		android:title="Enable Background Music"
+		android:key="enable_music" />
+	<CheckBoxPreference
+		android:title="Enable Sound Effects"
+		android:key="sound_effects" />
+	<CheckBoxPreference
+		android:title="Enable Vibration"
+		android:key="vibrate_allowed" />
+	<Preference
+		android:title="Clear All High Scores"
+		android:key="clear_high_scores" />
+</PreferenceScreen>

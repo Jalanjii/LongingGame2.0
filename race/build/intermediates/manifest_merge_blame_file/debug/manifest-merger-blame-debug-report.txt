@@ -1,0 +1,65 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.sIlence.androidracer"
+4    android:versionCode="4"
+5    android:versionName="1.0.3" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.VIBRATE" />
+11-->C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml:6:2-63
+11-->C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml:6:19-60
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml:7:2-64
+12-->C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml:7:19-61
+13    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+13-->C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml:8:5-75
+13-->C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml:8:22-72
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+14-->C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml:9:5-79
+14-->C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml:9:22-76
+15
+16    <supports-screens
+16-->C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml:10:2-14:8
+17        android:anyDensity="true"
+17-->C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml:13:6-31
+18        android:largeScreens="true"
+18-->C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml:12:6-33
+19        android:normalScreens="true"
+19-->C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml:11:6-34
+20        android:smallScreens="true" />
+20-->C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml:10:20-47
+21
+22    <application
+22-->C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml:15:5-24:15
+23        android:icon="@drawable/icon"
+23-->C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml:15:18-47
+24        android:label="@string/app_name" >
+24-->C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml:15:48-80
+25        <activity
+25-->C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml:16:9-22:20
+26            android:name="com.sIlence.androidracer.AndroidRacer"
+26-->C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml:16:19-46
+27            android:label="@string/app_name" >
+27-->C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml:17:19-51
+28            <intent-filter>
+28-->C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml:18:13-21:29
+29                <action android:name="android.intent.action.MAIN" />
+29-->C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml:19:17-69
+29-->C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml:19:25-66
+30
+31                <category android:name="android.intent.category.LAUNCHER" />
+31-->C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml:20:17-77
+31-->C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml:20:27-74
+32            </intent-filter>
+33        </activity>
+34        <activity android:name="com.sIlence.androidracer.SettingsPreferences" />
+34-->C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml:23:3-50
+34-->C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml:23:13-47
+35    </application>
+36
+37</manifest>

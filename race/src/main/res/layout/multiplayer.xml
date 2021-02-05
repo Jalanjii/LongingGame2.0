@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@+id/main_view"
+	xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+	android:background="#FF000000" >
+	<ImageView
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:src="@drawable/background_race"
+		android:scaleType="centerCrop"
+		android:contentDescription="TODO" />
+	<TextView
+		android:id="@+id/multi_head"
+		android:layout_width="wrap_content"
+		android:layout_height="60dp"
+		android:layout_marginEnd="5dp"
+		android:text="@string/multiplayer"
+		android:textSize="46sp"
+		android:textColor="#FFFFFFFF"
+		android:layout_alignParentEnd="true"
+		android:layout_marginTop="10dp"
+	/>
+	<LinearLayout android:id="@+id/multi_linear"
+		android:orientation="vertical"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:gravity="right"
+		android:layout_alignParentEnd="true"
+		android:layout_below="@id/multi_head"
+		>
+		
+		<ListView
+			android:id="@+id/host_list"
+			android:layout_width="fill_parent"
+			android:layout_height="150dp"
+			android:layout_marginTop="5dp"
+			android:layout_marginEnd="5dp"
+			android:layout_marginStart="20dp"
+			android:background="@drawable/button"
+			android:textColor="#FFFFFFFF"
+			android:textSize="36sp"
+			android:gravity="right"
+		/>
+		
+		<Button
+			android:id="@+id/scan_multi"
+			android:layout_width="320px"
+			android:layout_height="46px"
+			android:layout_marginTop="5px"
+			android:layout_marginRight="5px"
+			android:background="@drawable/button"
+			android:text="Scan"
+			android:textColor="#FFFFFFFF"
+			android:textSize="36px"
+			android:gravity="right"
+		/>
+		
+		<Button
+			android:id="@+id/new_screen_name"
+			android:layout_width="320dp"
+			android:layout_height="46dp"
+			android:layout_marginTop="5dp"
+			android:layout_marginEnd="5dp"
+			android:background="@drawable/button"
+			android:text="@string/new_name"
+			android:textColor="#FFFFFFFF"
+			android:textSize="36sp"
+			android:gravity="right"
+		/>	
+		
+		<Button
+			android:id="@+id/multi_host"
+			android:layout_width="320dp"
+			android:layout_height="46dp"
+			android:layout_marginTop="5dp"
+			android:layout_marginEnd="5dp"
+			android:background="@drawable/button"
+			android:text="@string/host"
+			android:textColor="#FFFFFFFF"
+			android:textSize="36sp"
+			android:gravity="right"
+		/>
+		
+		<Button
+			android:id="@+id/back"
+			android:layout_width="320dp"
+			android:layout_height="46dp"
+			android:layout_marginTop="5dp"
+			android:layout_marginEnd="5dp"
+			android:background="@drawable/button"
+			android:text="@string/back"
+			android:textColor="#FFFFFFFF"
+			android:textSize="36sp"
+			android:gravity="right"
+		/>
+	</LinearLayout>
+		
+	<TextView
+		android:id="@+id/footer"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_marginRight="5dp"
+		android:layout_alignParentBottom="true"
+		android:layout_alignParentEnd="true"
+		android:text="@string/a_silence_product"
+		android:textSize="30sp"
+		android:textColor="#FFFFFFFF"
+		/>
+</RelativeLayout>

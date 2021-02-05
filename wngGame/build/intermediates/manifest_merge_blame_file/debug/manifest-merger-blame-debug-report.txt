@@ -1,0 +1,62 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="progark.a15"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml:7:5-32:19
+12        android:icon="@drawable/ic_launcher"
+12-->C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml:8:9-45
+13        android:label="@string/app_name"
+13-->C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml:9:9-41
+14        android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+14-->C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml:10:9-67
+15        <activity
+15-->C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml:11:9-15:20
+16            android:name="progark.a15.GameActivity_getwang"
+16-->C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml:12:13-49
+17            android:noHistory="true"
+17-->C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml:14:13-37
+18            android:screenOrientation="portrait" >
+18-->C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml:13:13-49
+19        </activity>
+20        <activity
+20-->C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml:16:9-19:20
+21            android:name="progark.a15.DiffSelectActivity"
+21-->C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml:17:13-47
+22            android:screenOrientation="portrait" >
+22-->C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml:18:13-49
+23        </activity>
+24        <activity
+24-->C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml:20:9-31:20
+25            android:name="progark.a15.MainMenuActivity"
+25-->C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml:21:13-45
+26            android:alwaysRetainTaskState="true"
+26-->C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml:24:13-49
+27            android:label="@string/app_name"
+27-->C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml:22:13-45
+28            android:launchMode="singleTask"
+28-->C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml:23:13-44
+29            android:screenOrientation="portrait" >
+29-->C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml:25:13-49
+30            <intent-filter>
+30-->C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml:26:13-30:29
+31                <action android:name="android.intent.action.MAIN" />
+31-->C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml:27:17-69
+31-->C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml:27:25-66
+32
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml:29:17-77
+33-->C:\androidStudioProjects\CollegeProjects\TheLonging2\wangGame\src\main\AndroidManifest.xml:29:27-74
+34            </intent-filter>
+35        </activity>
+36    </application>
+37
+38</manifest>

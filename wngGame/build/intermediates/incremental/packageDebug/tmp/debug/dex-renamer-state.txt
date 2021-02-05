@@ -1,0 +1,4 @@
+#Sat Jul 11 08:26:17 GMT+07:00 2020
+base.0=C\:\\androidStudioProjects\\JetWang-master1\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

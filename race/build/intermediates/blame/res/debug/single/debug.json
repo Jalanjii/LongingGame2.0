@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "C:\\androidStudioProjects\\Android-Racer-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout-small_host_item.xml.flat",
+        "source": "C:\\androidStudioProjects\\Android-Racer-master1\\app\\src\\main\\res\\layout-small\\host_item.xml"
+    },
+    {
+        "merged": "C:\\androidStudioProjects\\Android-Racer-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_main.xml.flat",
+        "source": "C:\\androidStudioProjects\\Android-Racer-master1\\app\\src\\main\\res\\layout-land\\main.xml"
+    },
+    {
+        "merged": "C:\\androidStudioProjects\\Android-Racer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background.png.flat",
+        "source": "C:\\androidStudioProjects\\Android-Racer-master1\\app\\src\\main\\res\\drawable\\background.png"
+    },
+    {
+        "merged": "C:\\androidStudioProjects\\Android-Racer-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout_help.xml.flat",
+        "source": "C:\\androidStudioProjects\\Android-Racer-master1\\app\\src\\main\\res\\layout\\help.xml"
+    },
+    {
+        "merged": "C:\\androidStudioProjects\\Android-Racer-master1\\app\\build\\intermediates\\res\\merged\\debug\\raw_menu_background.ogg.flat",
+        "source": "C:\\androidStudioProjects\\Android-Racer-master1\\app\\src\\main\\res\\raw\\menu_background.ogg"
+    },
+    {
+        "merged": "C:\\androidStudioProjects\\Android-Racer-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\androidStudioProjects\\Android-Racer-master1\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\androidStudioProjects\\Android-Racer-master1\\app\\build\\intermediates\\res\\merged\\debug\\raw_cycle.ogg.flat",
+        "source": "C:\\androidStudioProjects\\Android-Racer-master1\\app\\src\\main\\res\\raw\\cycle.ogg"
+    },
+    {
+        "merged": "C:\\androidStudioProjects\\Android-Racer-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_difficualty.xml.flat",
+        "source": "C:\\androidStudioProjects\\Android-Racer-master1\\app\\src\\main\\res\\layout-land\\difficualty.xml"
+    },
+    {
+        "merged": "C:\\androidStudioProjects\\Android-Racer-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout_high_score_box.xml.flat",
+        "source": "C:\\androidStudioProjects\\Android-Racer-master1\\app\\src\\main\\res\\layout\\high_score_box.xml"
+    },
+    {
+        "merged": "C:\\androidStudioProjects\\Android-Racer-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_help.xml.flat",
+        "source": "C:\\androidStudioProjects\\Android-Racer-master1\\app\\src\\main\\res\\layout-land\\help.xml"
+    },
+    {
+        "merged": "C:\\androidStudioProjects\\Android-Racer-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout_multiplayer.xml.flat",
+        "source": "C:\\androidStudioProjects\\Android-Racer-master1\\app\\src\\main\\res\\layout\\multiplayer.xml"
+    },
+    {
+        "merged": "C:\\androidStudioProjects\\Android-Racer-master1\\app\\build\\intermediates\\res\\merged\\debug\\raw_crash.ogg.flat",
+        "source": "C:\\androidStudioProjects\\Android-Racer-master1\\app\\src\\main\\res\\raw\\crash.ogg"
+    },
+    {
+        "merged": "C:\\androidStudioProjects\\Android-Racer-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout-small_high_score.xml.flat",
+        "source": "C:\\androidStudioProjects\\Android-Racer-master1\\app\\src\\main\\res\\layout-small\\high_score.xml"
+    },
+    {
+        "merged": "C:\\androidStudioProjects\\Android-Racer-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_multiplayer.xml.flat",
+        "source": "C:\\androidStudioProjects\\Android-Racer-master1\\app\\src\\main\\res\\layout-land\\multiplayer.xml"
+    },
+    {
+        "merged": "C:\\androidStudioProjects\\Android-Racer-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal_high_score.xml.flat",
+        "source": "C:\\androidStudioProjects\\Android-Racer-master1\\app\\src\\main\\res\\layout-normal\\high_score.xml"
+    },
+    {
+        "merged": "C:\\androidStudioProjects\\Android-Racer-master1\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu.xml.flat",
+        "source": "C:\\androidStudioProjects\\Android-Racer-master1\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\androidStudioProjects\\Android-Racer-master1\\app\\build\\intermediates\\res\\merged\\debug\\menu_settings.xml.flat",
+        "source": "C:\\androidStudioProjects\\Android-Racer-master1\\app\\src\\main\\res\\menu\\settings.xml"
+    },
+    {
+        "merged": "C:\\androidStudioProjects\\Android-Racer-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout_host_item.xml.flat",
+        "source": "C:\\androidStudioProjects\\Android-Racer-master1\\app\\src\\main\\res\\layout\\host_item.xml"
+    },
+    {
+        "merged": "C:\\androidStudioProjects\\Android-Racer-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout_multiplayer_screen_name.xml.flat",
+        "source": "C:\\androidStudioProjects\\Android-Racer-master1\\app\\src\\main\\res\\layout\\multiplayer_screen_name.xml"
+    },
+    {
+        "merged": "C:\\androidStudioProjects\\Android-Racer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
+        "source": "C:\\androidStudioProjects\\Android-Racer-master1\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\androidStudioProjects\\Android-Racer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_disabled.9.png.flat",
+        "source": "C:\\androidStudioProjects\\Android-Racer-master1\\app\\src\\main\\res\\drawable\\button_disabled.9.png"
+    },
+    {
+        "merged": "C:\\androidStudioProjects\\Android-Racer-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout_difficualty.xml.flat",
+        "source": "C:\\androidStudioProjects\\Android-Racer-master1\\app\\src\\main\\res\\layout\\difficualty.xml"
+    },
+    {
+        "merged": "C:\\androidStudioProjects\\Android-Racer-master1\\app\\build\\intermediates\\res\\merged\\debug\\raw_silence.ogg.flat",
+        "source": "C:\\androidStudioProjects\\Android-Racer-master1\\app\\src\\main\\res\\raw\\silence.ogg"
+    },
+    {
+        "merged": "C:\\androidStudioProjects\\Android-Racer-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout_high_score.xml.flat",
+        "source": "C:\\androidStudioProjects\\Android-Racer-master1\\app\\src\\main\\res\\layout\\high_score.xml"
+    },
+    {
+        "merged": "C:\\androidStudioProjects\\Android-Racer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button.9.png.flat",
+        "source": "C:\\androidStudioProjects\\Android-Racer-master1\\app\\src\\main\\res\\drawable\\button.9.png"
+    },
+    {
+        "merged": "C:\\androidStudioProjects\\Android-Racer-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal_host_item.xml.flat",
+        "source": "C:\\androidStudioProjects\\Android-Racer-master1\\app\\src\\main\\res\\layout-normal\\host_item.xml"
+    }
+]

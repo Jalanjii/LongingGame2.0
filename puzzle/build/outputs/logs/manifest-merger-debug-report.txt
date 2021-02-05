@@ -1,0 +1,61 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\puzzle\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\puzzle\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\puzzle\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\puzzle\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\puzzle\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\puzzle\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\puzzle\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\puzzle\src\main\AndroidManifest.xml:3:5-31
+		INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\puzzle\src\main\AndroidManifest.xml
+		INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\puzzle\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\puzzle\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\puzzle\src\main\AndroidManifest.xml
+		INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\puzzle\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\puzzle\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\puzzle\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\puzzle\src\main\AndroidManifest.xml
+		INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\puzzle\src\main\AndroidManifest.xml
+application
+ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\puzzle\src\main\AndroidManifest.xml:7:5-20:19
+	android:label
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\puzzle\src\main\AndroidManifest.xml:9:9-41
+	android:icon
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\puzzle\src\main\AndroidManifest.xml:8:9-38
+activity#com.nav.gamepack.GamePackActivity
+ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\puzzle\src\main\AndroidManifest.xml:10:9-18:20
+	android:screenOrientation
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\puzzle\src\main\AndroidManifest.xml:13:13-49
+	android:label
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\puzzle\src\main\AndroidManifest.xml:12:13-45
+	android:name
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\puzzle\src\main\AndroidManifest.xml:11:13-45
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\puzzle\src\main\AndroidManifest.xml:14:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\puzzle\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\puzzle\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\puzzle\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\puzzle\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\puzzle\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\puzzle\src\main\AndroidManifest.xml
+INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\puzzle\src\main\AndroidManifest.xml
+INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\puzzle\src\main\AndroidManifest.xml
+INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\puzzle\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\puzzle\src\main\AndroidManifest.xml
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\puzzle\src\main\AndroidManifest.xml
+		INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\puzzle\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\puzzle\src\main\AndroidManifest.xml
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\puzzle\src\main\AndroidManifest.xml
+		INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\puzzle\src\main\AndroidManifest.xml

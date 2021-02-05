@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/background_race"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/play_head"
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:layout_alignParentRight="true"
+        android:text="Play"
+        android:textColor="#FFFFFFFF"
+        android:textSize="46sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/diff_child"
+        android:layout_width="320dp"
+        android:layout_height="46dp"
+        android:background="@drawable/button"
+        android:gravity="right"
+        android:text="Child"
+        android:textColor="#FFFFFFFF"
+        android:textSize="36sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/play_head" />
+
+    <Button
+        android:id="@+id/diff_easy"
+        android:layout_width="320dp"
+        android:layout_height="46dp"
+        android:background="@drawable/button"
+        android:gravity="right"
+        android:text="Easy"
+        android:textColor="#FFFFFFFF"
+        android:textSize="36sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/diff_child" />
+
+    <Button
+        android:id="@+id/diff_medium"
+        android:layout_width="320dp"
+        android:layout_height="46dp"
+        android:background="@drawable/button"
+        android:gravity="right"
+        android:text="Medium"
+        android:textColor="#FFFFFFFF"
+        android:textSize="36sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/diff_easy" />
+
+    <Button
+        android:id="@+id/diff_hard"
+        android:layout_width="320dp"
+        android:layout_height="46dp"
+        android:background="@drawable/button"
+        android:gravity="right"
+        android:text="Hard"
+        android:textColor="#FFFFFFFF"
+        android:textSize="36sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/diff_medium" />
+
+    <Button
+        android:id="@+id/diff_insane"
+        android:layout_width="320dp"
+        android:layout_height="46dp"
+        android:background="@drawable/button"
+        android:gravity="right"
+        android:text="Insane"
+        android:textColor="#FFFFFFFF"
+        android:textSize="36sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/diff_hard" />
+
+    <Button
+        android:id="@+id/back"
+        android:layout_width="320dp"
+        android:layout_height="46dp"
+        android:background="@drawable/button"
+        android:gravity="right"
+        android:text="Back"
+        android:textColor="#FFFFFFFF"
+        android:textSize="36sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/diff_insane" />
+
+    <TextView
+        android:id="@+id/footer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:text="@string/a_silence_product"
+        android:textColor="#FFFFFFFF"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

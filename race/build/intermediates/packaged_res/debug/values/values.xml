@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a_silence_product">A sIlence Product</string>
+    <string name="android_racer">Android Racer</string>
+    <string name="app_name">Android Racer</string>
+    <string name="back">Back</string>
+    <string name="child">Child</string>
+    <string name="done">Done</string>
+    <string name="easy">Easy</string>
+    <string name="enter_a_screen_name">Enter a screen name</string>
+    <string name="hard">Hard</string>
+    <string name="help">Help</string>
+    <string name="high_scores">High Scores</string>
+    <string name="host">Host</string>
+    <string name="insane">Insane</string>
+    <string name="medium">Medium</string>
+    <string name="multiplayer">Multiplayer</string>
+    <string name="new_name">New Name</string>
+    <string name="play">Play</string>
+    <string name="resume">Resume</string>
+    <string name="settings">Settings</string>
+</resources>

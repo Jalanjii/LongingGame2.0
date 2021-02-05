@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright 2017 Kaushik N. Sanji
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~    http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<androidx.preference.PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <androidx.preference.PreferenceCategory android:title="@string/pref_filter_results_category_title">
+
+        <androidx.preference.ListPreference
+            android:defaultValue="@string/pref_publication_type_default"
+            android:dialogTitle="@string/pref_publication_type_dialog_title"
+            android:entries="@array/pref_publication_type_entries"
+            android:entryValues="@array/pref_publication_type_values"
+            android:key="@string/pref_publication_type_key"
+            android:title="@string/pref_publication_type_title" />
+
+        <androidx.preference.ListPreference
+            android:defaultValue="@string/pref_content_type_default"
+            android:dialogTitle="@string/pref_content_type_dialog_title"
+            android:entries="@array/pref_content_type_entries"
+            android:entryValues="@array/pref_content_type_values"
+            android:key="@string/pref_content_type_key"
+            android:title="@string/pref_content_type_title" />
+
+    </androidx.preference.PreferenceCategory>
+
+    <androidx.preference.PreferenceCategory android:title="@string/pref_sort_results_category_title">
+
+        <androidx.preference.ListPreference
+            android:defaultValue="@string/pref_sort_by_default"
+            android:dialogTitle="@string/pref_sort_by_dialog_title"
+            android:entries="@array/pref_sort_by_entries"
+            android:entryValues="@array/pref_sort_by_values"
+            android:key="@string/pref_sort_by_key"
+            android:title="@string/pref_sort_by_title" />
+
+    </androidx.preference.PreferenceCategory>
+
+    <androidx.preference.PreferenceCategory android:title="@string/pref_pagination_category_title">
+
+        <com.example.kaushiknsanji.bookslibrary.settings.NumberPickerPreference
+            android:defaultValue="@integer/pref_page_to_display_default_value"
+            android:dialogTitle="@string/pref_page_to_display_title"
+            android:key="@string/pref_page_to_display_key"
+            android:title="@string/pref_page_to_display_title" />
+
+        <com.example.kaushiknsanji.bookslibrary.settings.NumberPickerPreference
+            android:defaultValue="@integer/pref_results_per_page_default_value"
+            android:dialogTitle="@string/pref_results_per_page_title"
+            android:key="@string/pref_results_per_page_key"
+            android:title="@string/pref_results_per_page_title" />
+
+    </androidx.preference.PreferenceCategory>
+
+    <androidx.preference.PreferenceCategory android:title="@string/pref_defaults_category_title">
+
+        <com.example.kaushiknsanji.bookslibrary.settings.ConfirmationPreference
+            android:defaultValue="@string/pref_reset_settings_default"
+            android:dialogMessage="@string/pref_reset_settings_dialog_msg"
+            android:key="@string/pref_reset_settings_key"
+            android:title="@string/pref_reset_settings_title" />
+
+    </androidx.preference.PreferenceCategory>
+
+</androidx.preference.PreferenceScreen>

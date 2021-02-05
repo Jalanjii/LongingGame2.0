@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+   <LinearLayout
+       xmlns:android="http://schemas.android.com/apk/res/android"
+       android:layout_width="fill_parent"
+       android:layout_height="fill_parent"
+       android:background="@drawable/backgroundstart"
+       android:orientation="vertical" >
+    
+    <RadioGroup
+        android:id="@+id/diff_radiogroup"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="120dp" >
+    
+	    <RadioButton
+	        android:id="@+id/easy_radio"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="@string/easy"
+	        android:layout_marginLeft="10dp" />
+	
+	    <RadioButton
+	        android:id="@+id/medium_radio"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="@string/medium"
+	        android:layout_marginLeft="10dp" />
+	
+	    <RadioButton
+	        android:id="@+id/hard_radio"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="@string/hard"
+	        android:layout_marginLeft="10dp" />
+	
+	</RadioGroup>
+	
+    <TextView
+        android:id="@+id/char_header"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:minHeight="40dp"
+        android:text="@string/choose_char"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp" />
+        
+   	<RadioGroup
+   	    android:id="@+id/char_radiogroup"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+       
+        <RadioButton
+            android:id="@+id/first_char_radio"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:maxWidth="200dp"
+            android:layout_marginLeft="10dp"
+	        android:layout_marginRight="5dp"
+            android:text="@string/first_char_name" />
+	
+	    <RadioButton
+	        android:id="@+id/second_char_radio"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_weight="1"
+	        android:maxWidth="200dp"
+	        android:layout_marginLeft="5dp"
+	        android:layout_marginRight="10dp"
+	        android:text="@string/second_char_name" />
+       
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/start_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="5dp"
+        android:minWidth="80dp"
+        android:text="@string/start_game" />
+
+</LinearLayout>

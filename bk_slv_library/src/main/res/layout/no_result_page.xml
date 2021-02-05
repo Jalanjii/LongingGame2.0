@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright 2017 Kaushik N. Sanji
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~    http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/no_result_page_margin_bottom"
+        android:layout_marginTop="@dimen/no_result_page_margin_top">
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/no_result_card_id"
+            style="@style/TopCenterBookTileCardViewStyle"
+            android:layout_width="@dimen/match_constraint_0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="@dimen/no_result_page_margin_right"
+            android:layout_marginLeft="@dimen/no_result_page_margin_left"
+            android:layout_marginRight="@dimen/no_result_page_margin_right"
+            android:layout_marginStart="@dimen/no_result_page_margin_left"
+            app:layout_constraintBottom_toTopOf="@+id/no_result_page_book_base_image_id"
+            app:layout_constraintVertical_chainStyle="packed">
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/no_result_card_content_margin">
+
+                <TextView
+                    android:id="@+id/no_result_content_title_text_id"
+                    style="@style/NoResultPageTitleTextStyle"
+                    android:gravity="center"
+                    android:text="@string/no_result_content_title_text"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <TextView
+                    android:id="@+id/no_result_text_1_id"
+                    style="@style/NoResultPageContentTextStyle"
+                    android:gravity="center"
+                    app:layout_constraintTop_toBottomOf="@id/no_result_content_title_text_id"
+                    tools:text="@string/no_result_page_textline_1" />
+
+                <TextView
+                    android:id="@+id/no_result_text_2_id"
+                    style="@style/NoResultPageContentTextStyle"
+                    android:gravity="start"
+                    android:text="@string/no_result_page_textline_2"
+                    app:layout_constraintTop_toBottomOf="@id/no_result_text_1_id" />
+
+                <TextView
+                    android:id="@+id/no_result_text_3_id"
+                    style="@style/NoResultPageContentTextStyle"
+                    android:gravity="start"
+                    android:text="@string/no_result_page_textline_3"
+                    app:layout_constraintTop_toBottomOf="@id/no_result_text_2_id" />
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+        </androidx.cardview.widget.CardView>
+
+        <ImageView
+            android:id="@+id/no_result_page_book_base_image_id"
+            android:layout_width="@dimen/match_constraint_0dp"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="@id/no_result_card_id"
+            app:layout_constraintLeft_toLeftOf="@id/no_result_card_id"
+            app:layout_constraintRight_toRightOf="@id/no_result_card_id"
+            app:layout_constraintStart_toStartOf="@id/no_result_card_id"
+            app:layout_constraintTop_toBottomOf="@id/no_result_card_id"
+            app:srcCompat="@drawable/book_shelf_with_base" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</FrameLayout>

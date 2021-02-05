@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\androidStudioProjects\\Android-Game-Pack-master1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\androidStudioProjects\\Android-Game-Pack-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "120,55",
+                        "endColumns": "45,64",
+                        "endOffsets": "161,115"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,101",
+                        "endColumns": "45,64",
+                        "endOffsets": "96,161"
+                    }
+                }
+            ]
+        }
+    ]
+}

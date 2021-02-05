@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@+id/help_view"
+	xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+	android:background="#FF000000" >
+
+	<ImageView
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:src="@drawable/background_race"
+		android:scaleType="centerCrop"
+		/>
+	<TextView
+		android:id="@+id/help_head"
+		android:layout_width="wrap_content"
+		android:layout_height="60dp"
+		android:layout_marginRight="5dp"
+		android:text="Help"
+		android:textSize="46sp"
+		android:textColor="#FFFFFFFF"
+		android:layout_alignParentRight="true"
+		android:layout_marginTop="10dp"
+	/>
+	<EditText
+		android:id="@+id/help_stuff"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_marginEnd="5dp"
+		android:layout_marginStart="10dp"
+		android:layout_marginTop="5dp"
+		android:layout_below="@id/help_head"
+		android:layout_alignParentEnd="true"
+		android:background="@drawable/button"
+		android:text="You control the blue racer by swiping in the direction you want to go. You win when you have 10 kills with a lead of 2. To score points cause the yellow racer to crash, either into you, a green racers, or itself. The yellow racer can also do the same to score points. And yes you can go through the gaps between the green racers, you will come out the other gap."		android:textSize="26dp"
+		android:textColor="#FFFFFFFF"
+		android:gravity="right"
+		android:maxLines="14"
+		android:inputType="textNoSuggestions|textMultiLine"
+		android:focusable="false"
+		android:focusableInTouchMode="false"
+		android:cursorVisible="false"
+		android:clickable="false"
+	/>
+	<Button
+		android:id="@+id/back"
+		android:layout_width="320dp"
+		android:layout_height="46dp"
+		android:layout_marginTop="5dp"
+		android:layout_marginRight="5dp"
+		android:layout_below="@id/help_stuff"
+		android:layout_alignParentRight="true"
+		android:background="@drawable/button"
+		android:text="Back"
+		android:textColor="#FFFFFFFF"
+		android:textSize="36sp"
+		android:gravity="right"
+		/>
+	<TextView
+		android:id="@+id/footer"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_marginRight="5dp"
+		android:layout_alignParentBottom="true"
+		android:layout_alignParentRight="true"
+		android:text="A sIlence Product"
+		android:textSize="30sp"
+		android:textColor="#FFFFFFFF"
+		/>
+
+</RelativeLayout>

@@ -1,0 +1,89 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml:3:2-36
+		INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml
+		INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml:5:2-29
+		INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml
+		INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml:4:2-25
+		INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml
+		INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml
+uses-permission#android.permission.VIBRATE
+ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml:6:2-63
+	android:name
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml:6:19-60
+uses-permission#android.permission.INTERNET
+ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml:7:2-64
+	android:name
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml:7:19-61
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml:8:5-75
+	android:name
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml:8:22-72
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml:9:22-76
+supports-screens
+ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml:10:2-14:8
+	android:largeScreens
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml:12:6-33
+	android:smallScreens
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml:10:20-47
+	android:normalScreens
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml:11:6-34
+	android:anyDensity
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml:13:6-31
+application
+ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml:15:5-24:15
+	android:label
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml:15:48-80
+	android:icon
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml:15:18-47
+activity#com.sIlence.androidracer.AndroidRacer
+ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml:16:9-22:20
+	android:label
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml:17:19-51
+	android:name
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml:16:19-46
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml:18:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml:20:27-74
+activity#com.sIlence.androidracer.SettingsPreferences
+ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml:23:3-50
+	android:name
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml:23:13-47
+uses-sdk
+INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml
+INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml
+INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml
+INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml
+		INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml
+		INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\race\src\main\AndroidManifest.xml

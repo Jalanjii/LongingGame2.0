@@ -1,0 +1,15 @@
+R_DEF: Internal format may change without notice
+local
+drawable icon
+drawable image
+id button1
+id button2
+id button3
+id button4
+id jigsawBoard
+id quickContactBadge1
+layout jigsawboard
+layout main
+menu main
+string app_name
+string hello

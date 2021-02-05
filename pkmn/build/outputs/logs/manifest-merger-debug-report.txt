@@ -1,0 +1,73 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml:2:1-20:12
+	package
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml:3:7-48
+		INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml
+		INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml:5:7-32
+		INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml
+		INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml:4:7-30
+		INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml
+		INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml
+application
+ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml:6:5-16:19
+	android:label
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml:6:48-71
+	android:debuggable
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml:6:72-97
+	android:icon
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml:6:18-47
+activity#com.M00271117.motraining.rpgame.MrNomGame
+ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml:7:9-15:20
+	android:screenOrientation
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml:10:19-55
+	android:label
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml:8:19-42
+	android:configChanges
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml:9:19-78
+	android:name
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml:7:19-75
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml:11:13-14:29
+action#android.intent.action.MAIN
+ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml:12:17-69
+	android:name
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml:12:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml:13:17-77
+	android:name
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml:13:27-74
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml:17:5-68
+	android:name
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml:17:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml:18:5-80
+	android:name
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml:18:22-78
+uses-sdk
+ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml:19:5-45
+INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml:19:5-45
+INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml:19:5-45
+INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml:19:5-45
+INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml:19:5-45
+	android:targetSdkVersion
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml:19:15-43
+		INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml
+		INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml
+		ADDED from C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml:19:5-45
+		INJECTED from C:\androidStudioProjects\CollegeProjects\TheLonging2\pokimon\src\main\AndroidManifest.xml
